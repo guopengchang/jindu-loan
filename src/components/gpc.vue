@@ -1,3 +1,3 @@
 <template>
-  <div>郭鹏昌啊啊啊啊啊</div>
+  <div>咕咕咕咕咕</div>
 </template>
